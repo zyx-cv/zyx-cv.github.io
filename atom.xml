@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>等风来</title>
+  
+  <subtitle>愿努力换来好结果</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://zyx-cv.github.io/"/>
+  <updated>2020-03-27T04:20:31.225Z</updated>
+  <id>https://zyx-cv.github.io/</id>
+  
+  <author>
+    <name>zyx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About  Me</title>
+    <link href="https://zyx-cv.github.io/2020/03/27/About/"/>
+    <id>https://zyx-cv.github.io/2020/03/27/About/</id>
+    <published>2020-03-27T05:11:30.392Z</published>
+    <updated>2020-03-27T04:20:31.225Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
